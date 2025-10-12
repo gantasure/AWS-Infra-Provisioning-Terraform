@@ -1,7 +1,7 @@
 # Install Terraform
 
 ## Windows
-
+## 
 1. Install Terraform from the Downloads [Page](https://developer.hashicorp.com/terraform/downloads)
 
 (or)
@@ -21,3 +21,5 @@
 ## macOS
 
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
+
+## windows
