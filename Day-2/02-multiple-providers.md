@@ -34,4 +34,3 @@ resource "azurerm_virtual_machine" "example" {
   size = "Standard_A1"
 }
 ```
-
